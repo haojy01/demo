@@ -1,4 +1,4 @@
-package com.bj58.com.finance;
+package com.demo.com.finance;
 
 import org.apache.commons.codec.Charsets;
 import org.apache.commons.lang3.StringUtils;
